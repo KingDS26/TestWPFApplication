@@ -1,0 +1,15 @@
+D:\workspace\WPFApplication\WpfApp\CustomButton\bin\Debug\CustomButton.exe.config
+D:\workspace\WPFApplication\WpfApp\CustomButton\bin\Debug\CustomButton.exe
+D:\workspace\WPFApplication\WpfApp\CustomButton\bin\Debug\CustomButton.pdb
+D:\workspace\WPFApplication\WpfApp\CustomButton\obj\Debug\CustomButton.csproj.AssemblyReference.cache
+D:\workspace\WPFApplication\WpfApp\CustomButton\obj\Debug\MainWindow.g.cs
+D:\workspace\WPFApplication\WpfApp\CustomButton\obj\Debug\App.g.cs
+D:\workspace\WPFApplication\WpfApp\CustomButton\obj\Debug\CustomButton_MarkupCompile.cache
+D:\workspace\WPFApplication\WpfApp\CustomButton\obj\Debug\CustomButton_MarkupCompile.lref
+D:\workspace\WPFApplication\WpfApp\CustomButton\obj\Debug\MainWindow.baml
+D:\workspace\WPFApplication\WpfApp\CustomButton\obj\Debug\CustomButton.g.resources
+D:\workspace\WPFApplication\WpfApp\CustomButton\obj\Debug\CustomButton.Properties.Resources.resources
+D:\workspace\WPFApplication\WpfApp\CustomButton\obj\Debug\CustomButton.csproj.GenerateResource.cache
+D:\workspace\WPFApplication\WpfApp\CustomButton\obj\Debug\CustomButton.csproj.CoreCompileInputs.cache
+D:\workspace\WPFApplication\WpfApp\CustomButton\obj\Debug\CustomButton.exe
+D:\workspace\WPFApplication\WpfApp\CustomButton\obj\Debug\CustomButton.pdb
